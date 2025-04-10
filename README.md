@@ -1,6 +1,6 @@
 # Caesar_Cipher
 
-🔐 Caesar Cipher Encryption Tool
+🔐 **Caesar Cipher Encryption Tool: **
 The Caesar Cipher is one of the oldest and simplest methods of encryption. It involves shifting each character in the plaintext by a fixed number of positions down the alphabet. This project provides a user-friendly interface for encoding and decoding text using the Caesar Cipher method, with additional features to handle different character sets, maintain letter case, and support custom alphabets.
 
 📌 Overview
